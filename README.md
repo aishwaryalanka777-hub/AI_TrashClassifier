@@ -1,5 +1,7 @@
 # 🗑️ AI Trash Classifier
-
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.13-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 A machine learning project that classifies trash into categories: **plastic, glass, metal, cardboard, paper, trash**.  
 Built using **Python 3.10**, **TensorFlow**, **Keras**, and trained on a custom dataset.
 
