@@ -15,8 +15,20 @@ Built using **Python 3.10**, **TensorFlow**, **Keras**, and trained on a custom 
 - Easy to set up and run on Windows PC
 - Lightweight and beginner-friendly project
 
----
+
 ## 📂 Dataset Structure
+
+## Dataset
+- Custom dataset with images of trash categorized into six classes.
+- Images preprocessed and augmented for better model performance.
+- Suitable for beginners to practice computer vision projects.
+
+
+## How it Works
+1. **Data Preprocessing:** Images are resized, normalized, and augmented.
+2. **Model Architecture:** Uses Convolutional Neural Networks (CNN) with TensorFlow/Keras.
+3. **Training:** The model is trained on the dataset with multiple epochs until it reaches good accuracy.
+4. **Prediction:** The webcam captures live input, and the model predicts the class of trash in real-time.
 
 Installation
 
@@ -31,5 +43,4 @@ python main.py
 
 
 
-Feel free to open issues or submit pull requests!
 
