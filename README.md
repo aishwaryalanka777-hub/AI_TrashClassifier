@@ -21,14 +21,15 @@ Built using **Python 3.10**, **TensorFlow**, **Keras**, and trained on a custom 
 Installation
 
 git clone https://github.com/aishwaryalanka777-hub/AI_TrashClassifier.git
-cd AI_TrashClassifier
-pip install -r requirements.txt
 
-✅ Usage
+
+cd AI_TrashClassifier
+
+pip install -r requirements.txt
 
 python main.py
 
- Contributing
+
 
 Feel free to open issues or submit pull requests!
 
