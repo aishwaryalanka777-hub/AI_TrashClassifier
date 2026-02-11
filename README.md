@@ -16,17 +16,19 @@ Built using **Python 3.10**, **TensorFlow**, **Keras**, and trained on a custom 
 - Lightweight and beginner-friendly project
 
 ---
-## Project Screenshots
-
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
-![Screenshot 4](images/screenshot4.png)
-![Screenshot 5](images/screenshot5.png)
-![Screenshot 6](images/screenshot6.png)
-![Screenshot 7](images/screenshot7.png)
-
-
 ## 📂 Dataset Structure
+
+Installation
+
 git clone https://github.com/aishwaryalanka777-hub/AI_TrashClassifier.git
+cd AI_TrashClassifier
+pip install -r requirements.txt
+
+✅ Usage
+
+python main.py
+
+ Contributing
+
+Feel free to open issues or submit pull requests!
 
