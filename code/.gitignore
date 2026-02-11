@@ -1,6 +1,5 @@
-# Ignore virtual environment
-venv/
-tf_env/
+# Ignore virtual environment and large binaries
+code/venv/
 *.dll
 *.pyd
 *.h5
