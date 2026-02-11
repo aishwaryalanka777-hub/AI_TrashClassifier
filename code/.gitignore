@@ -2,3 +2,5 @@ tf_env/
 dataset/
 __pycache__/
 *.h5
+# Ignore virtual environment
+code/venv/
